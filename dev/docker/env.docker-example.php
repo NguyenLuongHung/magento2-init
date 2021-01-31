@@ -15,8 +15,8 @@ return [
             'default' => [
                 'host' => 'mysql',
                 'dbname' => 'magento_db',
-                'username' => 'magento',
-                'password' => 'secret',
+                'username' => 'bidd',
+                'password' => 'bivip123',
                 'model' => 'mysql4',
                 'engine' => 'innodb',
                 'initStatements' => 'SET NAMES utf8;',
